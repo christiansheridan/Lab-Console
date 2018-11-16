@@ -2,6 +2,7 @@
 
 ## Objectives
 
+Adding this to try and get it off of my assigned labs
 1. In this lab students will learn to navigate their file system using only the terminal
 2. Students will practice using the following commands to traverse directories and investigate their contents: `pwd`, `ls`, `cd`, `cat`, `less`, `grep`
 
